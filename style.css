@@ -1,0 +1,101 @@
+body {
+  background-color: azure;
+  padding: 20px;
+}
+
+.titulo-principal {
+  font-size: 30px;
+  color: rgb(13, 197, 197);
+  font-family: "McLaren", cursive;
+}
+
+.opinion {
+  font-size: 20px;
+  font-family: "Livvic", sans-serif;
+}
+
+.descripcion {
+  font-size: 20px;
+  font-family: "Livvic", sans-serif;
+}
+
+.foto-mark {
+  border-radius: 45px;
+  margin: auto;
+  display: block;
+  border-style: solid;
+  border-color: rgb(131, 16, 207);
+  border-width: 7px;
+}
+
+.texto-centrado {
+  text-align: center;
+  font-size: 30px;
+  font-family: "McLaren", cursive;
+  color: rgb(14, 120, 206);
+}
+
+div {
+  background-color: skyblue;
+  border-radius: 30px;
+}
+
+.texto-centrado2 {
+  text-align: center;
+  font-family: "McLaren", cursive;
+  font-size: 20px;
+}
+
+.mark-esposa {
+  margin: auto;
+  display: block;
+  border-radius: 30px;
+  height: 520px;
+  border-style: solid;
+  border-width: 6px;
+  border-color: rgb(92, 207, 154);
+}
+
+footer {
+  text-align: center;
+}
+
+#contenedor {
+  background-color: skyblue;
+}
+
+.subtitulo {
+  text-align: center;
+  font-family: "Patrick Hand", cursive;
+  font-size: 30px;
+}
+
+strong {
+  color: rgb(0, 132, 255);
+  font-size: 30px;
+  font-family: "McLaren", cursive;
+  text-align: center;
+}
+
+#parrafo {
+  font-size: 20px;
+  font-family: "Livvic", sans-serif;
+  text-align: center;
+}
+
+.imagenes-empresas {
+  margin: auto;
+  display: block;
+  border-radius: 20px;
+  height: 500px;
+  border-style: solid;
+  border-width: 6px;
+  border-color: rgb(27, 107, 212);
+}
+
+.titulos {
+  font-size: 35px;
+  text-align: center;
+  color: rgb(110, 35, 196);
+  font-family: "McLaren", cursive;
+}
